@@ -20,8 +20,8 @@ This example uses the default theme, since I haven't specified a theme in the YA
 Your portfolio should demonstrate each of the following skills (not all of which are demonstrated in this example):
 
 * Displaying multiple vector layers on the same map ---
-* Calculating and displaying relationships among point and polygon layers based on distance
-* Aggregating point data to a layer of polygons
+* Calculating and displaying relationships among point and polygon layers based on distance  
+* Aggregating point data to a layer of polygons - 
 * Calculating and displaying accessibility, based on travel time -- 
 * Converting between raster layers and vector layers
 * Displaying raster data on a map -
@@ -60,4 +60,10 @@ This map demonstrates the following skills:
 
 [![](thumbnails/map4.png)](https://github.com/freitasmarina/spatialanalysis_portfolio/blob/main/fullsize/map4.pdf){target="_blank"}
 
+## Map 5
+This map demonstrates the following skills: 
+
+* Aggregating point data to a layer of polygons - 
+
+[![](thumbnails/map5.png)](https://github.com/freitasmarina/spatialanalysis_portfolio/blob/main/fullsize/map5.pdf){target="_blank"}
 
