@@ -22,7 +22,7 @@ Your portfolio should demonstrate each of the following skills (not all of which
 * Displaying multiple vector layers on the same map -
 * Calculating and displaying relationships among point and polygon layers based on distance
 * Aggregating point data to a layer of polygons
-* Calculating and displaying accessibility, based on travel time
+* Calculating and displaying accessibility, based on travel time - 
 * Converting between raster layers and vector layers
 * Displaying raster data on a map
 * Georeferencing a raster image
@@ -39,4 +39,6 @@ This map demonstrates the following skills:
 This map demonstrates the following skills: 
 
 * Displaying multiple vector layers on the same map
+* Calculating and displaying accessibility, based on travel time
 
+[![](thumbnails/map2.png)](https://github.com/freitasmarina/spatialanalysis_portfolio/blob/main/fullsize/map2.pdf){target="_blank"}
