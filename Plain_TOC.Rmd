@@ -25,7 +25,7 @@ Your portfolio should demonstrate each of the following skills (not all of which
 * Calculating and displaying accessibility, based on travel time -- 
 * Converting between raster layers and vector layers
 * Displaying raster data on a map -
-* Georeferencing a raster image
+* Georeferencing a raster image - 
 * Displaying data on an interactive map
 
 ## Map 01
@@ -52,4 +52,12 @@ This map demonstrates the following skills:
 
 [![](thumbnails/map3.png)](https://github.com/freitasmarina/spatialanalysis_portfolio/blob/main/fullsize/map3.pdf){target="_blank"}
 
-## 
+## Map 4
+This map demonstrates the following skills: 
+
+* Displaying multiple vector layers on the same map
+* Georeferencing a raster image
+
+[![](thumbnails/map4.png)](https://github.com/freitasmarina/spatialanalysis_portfolio/blob/main/fullsize/map4.pdf){target="_blank"}
+
+
